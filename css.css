@@ -47,3 +47,34 @@ p {
     text-align: justify; 
     text-justify: inter-word; 
 }
+body {
+    background-color: #363636;
+}
+
+
+
+
+#tovar {
+    position: relative;
+    top: -900px;
+    border-radius: 10px;
+}
+
+#tovar2 {
+    position: relative;
+    top: -1105px;
+    border-radius: 10px;
+    left: 280px;
+}
+
+#tovar3 {
+    position: relative;
+    top: -1305px;
+    border-radius: 10px;
+    left: 560px;
+}
+
+#buttons {
+    position: relative;
+    top: -2660px;
+}
