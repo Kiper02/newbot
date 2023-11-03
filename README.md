@@ -7,7 +7,6 @@
     
 </head>
 <body>
-    <h1>МАГАЗ</h1>
     <div id="main">
         <h1>Магазин обуви</h1>
         <img src="https://img.favpng.com/7/11/23/nike-women-s-roshe-one-sports-shoes-adidas-png-favpng-btrdESJMVRwKQcphHPcWX8q1R.jpg">
