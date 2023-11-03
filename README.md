@@ -17,7 +17,7 @@
             <img id="tovar" src="tovar2.jpg" width="200" height="200">
         </div>
         <div id="tovar3">
-            <img id="tovar" src="tovar2.jpg" width="200" height="200">
+            <img id="tovar" src="tovar3.jpg" width="200" height="200">
         </div>
 
 
