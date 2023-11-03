@@ -19,16 +19,12 @@
         <div id="tovar3">
             <img id="tovar" src="tovar3.jpg" width="200" height="200">
         </div>
-
-
-
-                <p>Выберите продукцию</p>
+        <p>Выберите продукцию</p>
         <div id="buttons">
             <button id="buy">Корзина</button>
             <button id="buy">Условия соглашения</button>
             <hr>
-        </div>
-        
+        </div> 
     </div>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
      <script>
